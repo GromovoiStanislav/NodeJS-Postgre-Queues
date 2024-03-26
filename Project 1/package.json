@@ -1,0 +1,15 @@
+{
+  "name": "pg-boss-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pg-boss": "^9.0.3"
+  }
+}
